@@ -29,7 +29,7 @@ const CallToActionTwo = () => {
         {/* End shape */}
 
         <div className="background" id="talk">
-          <a className="player"></a>
+          <div className="player"></div>
           <div className="overlay"></div>
         </div>
         {/* End background */}

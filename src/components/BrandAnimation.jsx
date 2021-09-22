@@ -23,7 +23,7 @@ export default function BrandAnimation() {
     slidesToShow: 4,
     slidesToScroll: 1,
     autoplay: true,
-    speed: 2000,
+    speed1: 2000,
     responsive: [
       {
         breakpoint: 420,
