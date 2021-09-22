@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import Modal from "react-modal";
-import Social from "../Social";
+
 
 Modal.setAppElement("#root");
 
@@ -88,9 +88,10 @@ const NewsTwo = () => {
                             <h3 className="title">
                              Find National Parks, Monuments, and Public Lands by state.
                             </h3>
-                            <p className="date">
-                              <a href="https://github.com/mklarson14/AllParks">Git Repository</a>{" "}
-                              <span>August 2021</span>
+                            <p className="share">
+                              <div>
+                                <span><a href="https://github.com/mklarson14/AllParks">Git Repository</a></span>
+                              </div>
                             </p>
                           </div>
                           {/* End details */}
@@ -109,7 +110,7 @@ const NewsTwo = () => {
                           </div>
                           {/* End description */}
                           <div className="news_share">
-                            <Social />
+                            {/* <Social /> */}
                             {/* End social share */}
                           </div>
                           {/* End news share */}
@@ -185,9 +186,8 @@ const NewsTwo = () => {
                             <h3 className="title">
                               Chat support for Software Developers
                             </h3>
-                            <p className="date">
-                              <a href="https://github.com/marrerap/DC-capstone-project">Git Repository</a>{" "}
-                              <span>September 2021</span>
+                            <p className="share">
+                              <span><a href="https://github.com/marrerap/DC-capstone-project">Git Repository</a>{" "}</span>
                             </p>
                           </div>
                           {/* End details */}
@@ -210,7 +210,7 @@ const NewsTwo = () => {
                           </div>
                           {/* End description */}
                           <div className="news_share">
-                            <Social />
+                            {/* <Social /> */}
                             {/* End social share */}
                           </div>
                           {/* End news share */}
@@ -289,9 +289,8 @@ const NewsTwo = () => {
                             <h3 className="title">
                               Plan a hike and invite like minded hikers!
                             </h3>
-                            <p className="date">
-                              <a href="https://github.com/marrerap/digital-trails">Git Repository</a>{" "}
-                              <span>July 2021</span>
+                            <p className="share">
+                              <span><a href="https://github.com/marrerap/digital-trails">Git Repository</a>{" "}</span>
                             </p>
                           </div>
                           {/* END DETAILS */}
@@ -314,7 +313,7 @@ const NewsTwo = () => {
                           </div>
                           {/* END DESCRIPTION */}
                           <div className="news_share">
-                            <Social />
+                            {/* <Social /> */}
                             {/* END SOCIAL SHARE */}
                           </div>
                         </div>
