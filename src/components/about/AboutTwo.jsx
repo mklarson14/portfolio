@@ -45,7 +45,7 @@ const AboutTwo = () => {
                   <p>
                     I am a Software Developer, an adventure seeker, and a divergent thinker.
                     I utilize my past experiences to bring a fresh perspective to evaluate problems and develop solutions.
-                    Between backcountry skiing with friends and developing a full-stack app with classmates, communicating and collorabting is part of my everyday life. 
+                    Between backcountry skiing with friends and developing a full-stack app with classmates, communicating and collaborating is part of my everyday life. 
                   </p>
                 </div>
                 <div
