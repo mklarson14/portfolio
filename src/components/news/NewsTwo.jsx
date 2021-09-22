@@ -89,7 +89,7 @@ const NewsTwo = () => {
                              Find National Parks, Monuments, and Public Lands by state.
                             </h3>
                             <p className="date">
-                              <a href="https://github.com/mklarson14/AllParks">Git Repository</a>{""}
+                              <a href="https://github.com/mklarson14/AllParks">Git Repository</a>{" "}
                               <span>August 2021</span>
                             </p>
                           </div>
