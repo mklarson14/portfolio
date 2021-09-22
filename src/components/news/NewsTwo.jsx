@@ -50,6 +50,7 @@ const NewsTwo = () => {
                       AllParks
                     </h3>
                     <p className="date">
+                      <a href="https://allparks2021.netlify.app/">allparks.com</a>{" "}
                       <span>August 2021</span>
                     </p>
                   </div>
@@ -88,56 +89,22 @@ const NewsTwo = () => {
                              Find National Parks, Monuments, and Public Lands by state.
                             </h3>
                             <p className="date">
-                              <a href="#">Solo project</a>{" "}
+                              <a href="https://github.com/mklarson14/AllParks">Git Repository</a>{""}
                               <span>August 2021</span>
                             </p>
                           </div>
                           {/* End details */}
                           <div className="description">
-                            <p>
-                              As Vintage decided to have a closer look into
-                              fast-paced New York web design realm in person, we
-                              get to acquaint with most diverse and
-                              exceptionally captivating personalities. As
-                              Vintage decided to have a closer look into
-                              fast-paced New York web design realm in person, we
-                              get to acquaint with most diverse and
-                              exceptionally captivating personalities. As
-                              Vintage decided to have a closer look into
-                              fast-paced New York web design realm in person, we
-                              get to acquaint with most diverse and
-                              exceptionally captivating personalities.
+                            <p>               
+                            Users are able to search by state for any National Park, 
+                            Monument or Public Lands that is available through the 
+                            National Park Service API. Users then can save places 
+                            they wish to visit to a favorites page. Each Park is displayed 
+                            on a card which the user has access to more information on a specific
+                            park.
                             </p>
-                            <blockquote>
-                              As Vintage decided to have a closer look into
-                              fast-paced New York web design realm in person. As
-                              Vintage decided to have a closer look into
-                              fast-paced New York web design realm in person, we
-                              get to acquaint with most diverse and
-                              exceptionally captivating personalities. As
-                              Vintage decided to have a closer look into
-                              fast-paced New York web design realm in person, we
-                              get to acquaint with most diverse and
-                              exceptionally captivating personalities.
-                            </blockquote>
                             <p>
-                              As Vintage decided to have a closer look into
-                              fast-paced New York web design realm in person, we
-                              get to acquaint with most diverse and
-                              exceptionally captivating personalities. We
-                              encounter professionals with careers to covet and
-                              lives to write books about. As Vintage decided to
-                              have a closer look into fast-paced New York web
-                              design realm in person, we get to acquaint with
-                              most diverse and exceptionally captivating
-                              personalities. As Vintage decided to have a closer
-                              look into fast-paced New York web design realm in
-                              person, we get to acquaint with most diverse and
-                              exceptionally captivating personalities. As
-                              Vintage decided to have a closer look into
-                              fast-paced New York web design realm in person, we
-                              get to acquaint with most diverse and
-                              exceptionally captivating personalities.
+                              This app was created with React.js, Node.js, Redux.js, MUI and CSS. 
                             </p>
                           </div>
                           {/* End description */}
@@ -181,6 +148,7 @@ const NewsTwo = () => {
                       S.M.A.C. Overflow
                     </h3>
                     <p className="date">
+                    <a href="https://smac-overflow.netlify.app/">smac-overflow.com</a>{" "}
                       <span>September 2021</span>
                     </p>
                   </div>
@@ -207,7 +175,7 @@ const NewsTwo = () => {
                               className="main"
                               style={{
                                 backgroundImage: `url(${
-                                  process.env.PUBLIC_URL + "img/news/9.jpg"
+                                  process.env.PUBLIC_URL + "img/news/smacChat.jpg"
                                 })`,
                               }}
                             ></div>
@@ -218,56 +186,26 @@ const NewsTwo = () => {
                               Chat support for Software Developers
                             </h3>
                             <p className="date">
-                              <a href="#">Team project</a>{" "}
+                              <a href="https://github.com/marrerap/DC-capstone-project">Git Repository</a>{" "}
                               <span>September 2021</span>
                             </p>
                           </div>
                           {/* End details */}
                           <div className="description">
                             <p>
-                              As Vintage decided to have a closer look into
-                              fast-paced New York web design realm in person, we
-                              get to acquaint with most diverse and
-                              exceptionally captivating personalities. As
-                              Vintage decided to have a closer look into
-                              fast-paced New York web design realm in person, we
-                              get to acquaint with most diverse and
-                              exceptionally captivating personalities. As
-                              Vintage decided to have a closer look into
-                              fast-paced New York web design realm in person, we
-                              get to acquaint with most diverse and
-                              exceptionally captivating personalities.
+                              As member of a 4-person development team, we built a chat support app 
+                              that allows Software Developers of all experience 
+                              levels come together in a simple to use platform and share 
+                              their questions and solutions in channels that have been 
+                              created for specific languages.
                             </p>
-                            <blockquote>
-                              As Vintage decided to have a closer look into
-                              fast-paced New York web design realm in person. As
-                              Vintage decided to have a closer look into
-                              fast-paced New York web design realm in person, we
-                              get to acquaint with most diverse and
-                              exceptionally captivating personalities. As
-                              Vintage decided to have a closer look into
-                              fast-paced New York web design realm in person, we
-                              get to acquaint with most diverse and
-                              exceptionally captivating personalities.
-                            </blockquote>
                             <p>
-                              As Vintage decided to have a closer look into
-                              fast-paced New York web design realm in person, we
-                              get to acquaint with most diverse and
-                              exceptionally captivating personalities. We
-                              encounter professionals with careers to covet and
-                              lives to write books about. As Vintage decided to
-                              have a closer look into fast-paced New York web
-                              design realm in person, we get to acquaint with
-                              most diverse and exceptionally captivating
-                              personalities. As Vintage decided to have a closer
-                              look into fast-paced New York web design realm in
-                              person, we get to acquaint with most diverse and
-                              exceptionally captivating personalities. As
-                              Vintage decided to have a closer look into
-                              fast-paced New York web design realm in person, we
-                              get to acquaint with most diverse and
-                              exceptionally captivating personalities.
+                              My primary responsibilities included setting up document 
+                              links, the chat page, and chat navigation.
+                            </p>
+                            <p>
+                              Capstone project built with React.js, Firebase, MUI, 
+                              React-Bootstrap, Node.js, Redux.js, and CSS.                          
                             </p>
                           </div>
                           {/* End description */}
@@ -298,7 +236,7 @@ const NewsTwo = () => {
                       className="main"
                       style={{
                         backgroundImage: `url(${
-                          process.env.PUBLIC_URL + "img/news/8.jpg"
+                          process.env.PUBLIC_URL + "img/news/dtHome.jpg"
                         })`,
                       }}
                     ></div>
@@ -310,6 +248,7 @@ const NewsTwo = () => {
                       Digital Trails
                     </h3>
                     <p className="date">
+                    <a href="https://digital-trails.herokuapp.com/">digitaltrails.com</a>{" "}
                       <span>July 2021</span>
                     </p>
                   </div>
@@ -340,7 +279,7 @@ const NewsTwo = () => {
                               className="main"
                               style={{
                                 backgroundImage: `url(${
-                                  process.env.PUBLIC_URL + "img/news/8.jpg"
+                                  process.env.PUBLIC_URL + "img/news/dt.jpg"
                                 })`,
                               }}
                             ></div>
@@ -351,56 +290,26 @@ const NewsTwo = () => {
                               Plan a hike and invite like minded hikers!
                             </h3>
                             <p className="date">
-                              <a href="#">Team Project</a>{" "}
+                              <a href="https://github.com/marrerap/digital-trails">Git Repository</a>{" "}
                               <span>July 2021</span>
                             </p>
                           </div>
                           {/* END DETAILS */}
                           <div className="description">
                             <p>
-                              As Vintage decided to have a closer look into
-                              fast-paced New York web design realm in person, we
-                              get to acquaint with most diverse and
-                              exceptionally captivating personalities. As
-                              Vintage decided to have a closer look into
-                              fast-paced New York web design realm in person, we
-                              get to acquaint with most diverse and
-                              exceptionally captivating personalities. As
-                              Vintage decided to have a closer look into
-                              fast-paced New York web design realm in person, we
-                              get to acquaint with most diverse and
-                              exceptionally captivating personalities.
+                              As a member of a 4-person team, we created a CRUD 
+                              social media app. A user can register with this app, 
+                              manage friends, plan hikes, and mark off completed hikes.  
                             </p>
-                            <blockquote>
-                              As Vintage decided to have a closer look into
-                              fast-paced New York web design realm in person. As
-                              Vintage decided to have a closer look into
-                              fast-paced New York web design realm in person, we
-                              get to acquaint with most diverse and
-                              exceptionally captivating personalities. As
-                              Vintage decided to have a closer look into
-                              fast-paced New York web design realm in person, we
-                              get to acquaint with most diverse and
-                              exceptionally captivating personalities.
-                            </blockquote>
                             <p>
-                              As Vintage decided to have a closer look into
-                              fast-paced New York web design realm in person, we
-                              get to acquaint with most diverse and
-                              exceptionally captivating personalities. We
-                              encounter professionals with careers to covet and
-                              lives to write books about. As Vintage decided to
-                              have a closer look into fast-paced New York web
-                              design realm in person, we get to acquaint with
-                              most diverse and exceptionally captivating
-                              personalities. As Vintage decided to have a closer
-                              look into fast-paced New York web design realm in
-                              person, we get to acquaint with most diverse and
-                              exceptionally captivating personalities. As
-                              Vintage decided to have a closer look into
-                              fast-paced New York web design realm in person, we
-                              get to acquaint with most diverse and
-                              exceptionally captivating personalities.
+                              My key responsibilities were to set up the database, 
+                              and assemble the user profile.
+                            </p>
+ 
+                            <p>
+                              Technologies used to create this project are PostgreSQL, 
+                              Express.js, Bootstrap, and JavaScript.
+
                             </p>
                           </div>
                           {/* END DESCRIPTION */}

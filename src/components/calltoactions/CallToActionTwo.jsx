@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Modal from "react-modal";
 import Map from "../Map";
-import Contact from "../Contact";
+// import Contact from "../Contact";
 import Social from "../Social";
 
 Modal.setAppElement("#root");
@@ -77,7 +77,12 @@ const CallToActionTwo = () => {
               <div className="wrapper">
                 <div className="left">
                   <div className="fields">
-                    <Contact />
+                    <img
+                      className="gif"
+                      src="img/gif/email.gif"
+                      alt="contact"
+                    />             
+                    {/* <Contact /> */}
                   </div>
                 </div>
                 {/* End left */}
@@ -108,11 +113,11 @@ const CallToActionTwo = () => {
                     <div className="list_inner">
                       <img
                         className="svg"
-                        src="img/svg/phone.svg"
-                        alt="phone"
+                        src="img/svg/email.svg"
+                        alt="email"
                       />
                       <p>
-                        <a href="tel:+1 907 830 0346">907-830-0346</a>
+                        <a href="mklarson14@gmail.com">mklarson14@gmail.com</a>
                       </p>
                     </div>
                   </li>
